@@ -1,6 +1,5 @@
 # Hardware-Experiment
-## JAGANATHAN K
-## 212223060095
+## JAGANATHAN K (212223060095)
 # Ideal sampling
 # Natural Sampling
 # PCM
